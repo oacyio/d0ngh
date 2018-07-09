@@ -1,5 +1,12 @@
 ---
-
+title: Spring Boot 参考指南
+date: 2018-07-09 08:38:45
+tags: 
+- Spring Boot
+- 手册
+- 微服务
+mp3: http://domain.com/awesome.mp3
+cover: http://domain.com/awesome.jpg
 ---
 
 # Spring Boot 参考指南
